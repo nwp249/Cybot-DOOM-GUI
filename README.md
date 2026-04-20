@@ -29,11 +29,11 @@ Video link: https://youtu.be/4BwXWBsaIUw?si=iwfoijSl9GdZOlE1
 This screenshot is our game state from the end of our demo, in the destination zone, after resetting the field to get a cleaner view.
 The walls do not represent the test field boundaries.
 
-<img src="./assets/screenshot.png">
+<img src="./GUI/assets/screenshot.png">
 
 #### Minimap cybot sprite
 
-<img src="./assets/cybot_sprite.png" height="200dp" width="235dp">
+<img src="./GUI/assets/cybot_sprite.png" height="200dp" width="235dp">
 
 #### Victory screen
-<img src="./assets/success.jpg">
+<img src="./GUI/assets/success.jpg">
