@@ -1,7 +1,10 @@
-# How to run
-Super easy to use with the VSCode python extension.
+Pygame GUI from my embedded systems final project. Supposed to be reminiscent of the original DOOM rendering style.
+A lot of fun to hack together and worked well enough to navigate to the target zone within a sizeable field. It will 
+not be runnable until some sort of mock server environment exists, but you can look at it.
 
-Run program on the cybot, start the gui whenever. It will work as long as you can actually communicate with the cybot.
+The C code is probably more applicable, but I can't upload most of it as it includes module drivers that involve 
+current course curriculum. 
+
 
 ## Python version:
 3.12.0 (Microsoft Store)
